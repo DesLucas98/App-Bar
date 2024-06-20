@@ -1,0 +1,39 @@
+ Login 
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: linear-gradient(180deg, #00D1FF 71%, #007D99 100%);
+background-blend-mode: hard-light;
+
+BARRA CADASTRO
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/component"
+android:layout_width="343dp"
+android:layout_height="52dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="16dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="244dp"
+ />
+
+
+
+
+
+BOTÃO
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/button"
+android:layout_width="343dp"
+android:layout_height="52dp"
+android:layout_alignParentLeft="true"
+android:layout_marginLeft="16dp"
+android:layout_alignParentTop="true"
+android:layout_marginTop="312dp"
+ />
+
+
+
